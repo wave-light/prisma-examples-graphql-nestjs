@@ -53,6 +53,7 @@
     "rxjs": "7.5.5"
   },
   "devDependencies": {
+    "@golevelup/ts-jest": "^0.3.3",
     "@nestjs/cli": "8.2.5",
     "@nestjs/schematics": "8.0.10",
     "@nestjs/testing": "8.4.4",
